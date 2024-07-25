@@ -1,0 +1,11 @@
+{
+  "name": "vendor/management",
+  "require": {
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
